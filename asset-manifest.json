@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VJCountryApp/static/css/main.67356eb2.css",
+    "main.js": "/VJCountryApp/static/js/main.8b623dea.js",
+    "static/js/453.6cc60bd2.chunk.js": "/VJCountryApp/static/js/453.6cc60bd2.chunk.js",
+    "index.html": "/VJCountryApp/index.html",
+    "main.67356eb2.css.map": "/VJCountryApp/static/css/main.67356eb2.css.map",
+    "main.8b623dea.js.map": "/VJCountryApp/static/js/main.8b623dea.js.map",
+    "453.6cc60bd2.chunk.js.map": "/VJCountryApp/static/js/453.6cc60bd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67356eb2.css",
+    "static/js/main.8b623dea.js"
+  ]
+}
